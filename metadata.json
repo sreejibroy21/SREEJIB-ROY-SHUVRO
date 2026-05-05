@@ -1,0 +1,16 @@
+{
+  "name": "Sreejib's Study Helper",
+  "description": "An AI-powered smart study assistant for students. features AI chat, camera solver, planner, notes, and Pomodoro timer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Chat Assistant",
+    "Camera Question Solver",
+    "Study Planner",
+    "Pomodoro Timer",
+    "Notes Saver",
+    "Voice Recognition"
+  ]
+}
